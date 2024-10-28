@@ -1,4 +1,4 @@
-# SEES Website
+# SEEES Website
 
 # Getting Started
 
